@@ -1,4 +1,4 @@
-# Project 3: 
+# Project 3: Using CNNs for Detecting Counterfeit Currency
 
 **DS 4002: Prototyping**
 
