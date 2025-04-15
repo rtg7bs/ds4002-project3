@@ -18,7 +18,6 @@
 ## Software and Platform
 ### Software Used
 - Python 3.12.4, R 4.4.2
-- RStudio 2024.9.1.394
 ### Required Packages
 #### Python: 
 - `pandas` (data manipulation)
@@ -26,9 +25,6 @@
 - `matplotlib` (visualization)
 - `statsmodels` (statistical model)
 - `joblib` (parallel computing for calculating min AIC)
-
-#### R:
-- `tidyverse` (data manipulation and visualization)
 ### Platform
 - Windows 11 and macOS 15 Sequoia
 
@@ -56,10 +52,7 @@
 ### Step 2: Install Dependencies
 #### Python:
 Install the required packages (list above)
-#### R
-Install tidyverse package
 ### Step 3: Obtain and Clean Raw Data 
-
 ### Step 4: Run Scripts in Order
 #### 1. 
 
