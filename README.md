@@ -7,6 +7,7 @@
 **Members:** Christine Tsai, Ben Harris (leader), Vance Newsome
 
 ## Project Overview
+In this project, we seek to use a convolutional neural network (CNN) to process images of US currency and determine if the bills are counterfeit or real.
 
 ## Contents of the Repository
 - `README.md` - Overview of the project and instructions for replication.
