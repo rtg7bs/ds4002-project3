@@ -40,7 +40,9 @@ In this project, we seek to use a convolutional neural network (CNN) to process 
 
 ├── DATA/
 
-│   ├── 
+│   ├── data_appendix.pdf # describes the dataset
+
+│   ├── obtain_data.md # instructions on acquiring raw data and getting it to a final, clean state
 
 ├── OUTPUT/
 
