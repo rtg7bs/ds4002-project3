@@ -19,7 +19,6 @@ In this project, we seek to use a convolutional neural network (CNN) to process 
 ## Software and Platform
 ### Software Used
 - Python 3.12.4, R 4.4.2
-### Required Packages
 #### Python: 
 - `pandas` (data manipulation)
 - `numpy` (numerical operations)
@@ -36,7 +35,9 @@ In this project, we seek to use a convolutional neural network (CNN) to process 
 
 ├── SCRIPTS/
 
-│   ├── 
+│   ├── data_cnn.ipynb # code for convulutional neural network
+
+│   ├── run_cnn.sh # script to run convolutional neural network on UVA's Rivanna supercomputer
 
 ├── DATA/
 
@@ -46,7 +47,13 @@ In this project, we seek to use a convolutional neural network (CNN) to process 
 
 ├── OUTPUT/
 
-│   ├── 
+│   ├── cnn_confusion_matrix.png # confusion matrix demonstrating the CNN's predictive performance
+
+│   ├── viz_samples_1.png # sample images of currency used in analysis
+
+│   ├── viz_samples_2.png # sample images of currency used in analysis
+
+│   ├── viz_samples_3.png # sample images of currency used in analysis
 
 
 
@@ -57,5 +64,7 @@ In this project, we seek to use a convolutional neural network (CNN) to process 
 Install the required packages (list above)
 ### Step 3: Obtain and Clean Raw Data 
 ### Step 4: Run Scripts in Order
-#### 1. 
+#### 1. data_cnn.ipynb
+#### 2. run_cnn.sh # if using external high-performance computing system
+### Step 5: View Results in Output folder
 
